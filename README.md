@@ -1,9 +1,11 @@
-# React + Vite
+# SpeedEase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SpeedEase is a web application built with React that takes a URL as input and provides a summarized version of the content from that URL. It utilizes the Article Extractor and Summarizer API from RapidAPI for this purpose.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# SpeedEase" 
+- **URL Input:** Users can input a URL of an article or webpage.
+- **Summarization:** Utilizes the Article Extractor and Summarizer API to extract and summarize the content.
+- **User-Friendly Interface:** Built with React to provide a smooth and responsive user experience.
+
+
